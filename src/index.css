@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400;600&display=swap');
 
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   margin: 0;
   font-family: 'Karla', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #0b2434;
+  background-color: #f5f5f5;
   padding: 20px;
 }
 
